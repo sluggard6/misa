@@ -4,11 +4,14 @@
 # Ignore Gradle build output directory
 build
 
+bin
+*.class
 
 # IDE Eclipse
 .classpath
 .project
 /.settings/
+
 
 # Other
 /.gitattributes
